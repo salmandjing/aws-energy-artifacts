@@ -7,7 +7,7 @@ Additional Information
 - Level: 200
 - Framework: Cloudformation
 - Type: Workshop
-- Author: Khush Patel
+- Author: [Khush Patel](https://www.linkedin.com/in/khushpatel11/)
 
 <br>
 
